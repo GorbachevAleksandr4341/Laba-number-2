@@ -19,4 +19,4 @@ sum.o: sum.c sum.h min.h
      gcc -c sum.c
 
 clean:
-       rm -rf*.o
+       rm -rf *.o
