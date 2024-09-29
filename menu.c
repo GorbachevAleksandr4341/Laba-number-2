@@ -1,6 +1,10 @@
 #include <string.h>
 #include <stdlib.h>
 #include <stdio.h>
+#include "max.h"
+#include "min.h"
+#include "diff.h"
+#include "sum.h"
 
 int main()
 {
