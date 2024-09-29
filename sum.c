@@ -1,4 +1,5 @@
 #include "sum.h"
+#include "min.h"
 
 int sum(int n[],int length) {
     int minN;
