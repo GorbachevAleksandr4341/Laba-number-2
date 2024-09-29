@@ -1,3 +1,5 @@
+#include "diff.h"
+
 int diff(int n[],int length) {
     int a, b, c;
     a = min(n, length);
