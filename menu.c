@@ -2,12 +2,6 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-int max(int n[],int length);
-int min(int n[],int length);
-int diff(int n[], int length);
-int sum(int n[], int length);
-
-
 int main()
 {
 
