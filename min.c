@@ -1,3 +1,5 @@
+#include "min.h"
+
 int min(int n[],int length) {
     int a = 1000;
     int el;
