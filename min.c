@@ -9,3 +9,4 @@ int min(int n[],int length) {
         }
     }
     return a;
+}
