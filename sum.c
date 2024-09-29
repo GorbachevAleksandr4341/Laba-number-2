@@ -1,3 +1,5 @@
+#include "sum.h"
+
 int sum(int n[],int length) {
     int minN;
     minN = min(n, length);
